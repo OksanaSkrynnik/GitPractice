@@ -3,5 +3,5 @@ public class HomeTest {
     String role = "Student";
     int id = 13;
     String email = "oksana@test.com";
-    String collaborator = "Kuba Test 2";
+    String collaborator = "Kuba Test 3";
 }
