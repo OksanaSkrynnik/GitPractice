@@ -4,5 +4,5 @@ public class HomeTest {
     int id = 13;
     String email = "oksana@test.com";
     String collaborator = "Kuba Test 3";
-
+    String phone = "222-333-4444";
 }
