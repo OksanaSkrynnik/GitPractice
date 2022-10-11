@@ -3,6 +3,5 @@ public class HomeTest {
     String role = "Student";
     int id = 139999;
     String email = "oksana@test.com";
-    String collaborator = "Kuba Test 3";
-    String email2 = "test@gmail.com";
+    String collaborator = "Kuba";
 }
